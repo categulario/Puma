@@ -1,0 +1,10 @@
+625,50
+575 decrece x
+75 y crece
+575 x aumenta
+75 y crece
+575 x decrece
+75 y crece
+575 x crece
+75 y crece
+575 x decrece
